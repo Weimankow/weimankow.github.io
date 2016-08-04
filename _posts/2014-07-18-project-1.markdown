@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: My Starhub App
+subtitle: "Role: Visual Design, User Research, Prototyping"
 layout: default
 modal-id: 1
 date: 2014-07-18

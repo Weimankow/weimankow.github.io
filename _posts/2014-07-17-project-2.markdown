@@ -1,6 +1,6 @@
 ---
-title: Escape
-subtitle: Website Design
+title: TripAdvisor Website
+subtitle: "Role: Project Planning, User Research, Wireframing, Usability Testing"
 layout: default
 modal-id: 2
 date: 2014-07-17

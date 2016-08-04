@@ -1,6 +1,6 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Advise Me App
+subtitle: "Role: User Research, Prototyping, Usability Testing"
 layout: default
 modal-id: 3
 date: 2014-07-16

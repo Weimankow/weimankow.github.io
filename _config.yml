@@ -1,59 +1,38 @@
-url: https://y7kim.github.io
+url: https://weimankow.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Weiman Kow
+email: weimankow@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Weiman Kow
+  pic: weiman.jpg
+  position: UX Designer | Illustrator | Tech Geek
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
+      url: # https://www.linkedin.com/in/weiman-kow-4920499?trk=hp-identity-photo
+    - title: medium
+      url: # https://medium.com/@weimankow
+    - title: youtube
+      url: https://www.youtube.com/user/lazarak33
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: # https://twitter.com/WeimanKow
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    - title: linkedin
+      url: # https://www.linkedin.com/in/weiman-kow-4920499?trk=hp-identity-photo
+    - title: medium
+      url: # https://medium.com/@weimankow
+    - title: youtube
+      url: https://www.youtube.com/user/lazarak33
+    - title: twitter
+      url: # https://twitter.com/WeimanKow
 
 # Postal address (add as many lines as necessary)
 address:
