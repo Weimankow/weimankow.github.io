@@ -1,8 +1,8 @@
 <!-- Team Section -->
     <section id="team">
-        
-            <div class="col">
-                {% for member in site.people %}
+        <div class="container">
+            {% for member in site.people %}
+            <div class="row">
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}" class="img-responsive img-circle" alt="">
@@ -20,13 +20,14 @@
                         </ul>
                     </div>
                 </div>
-                {% endfor %}
-            </div>
-            <div class="col">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">Hello! I’m a UX designer interested in making the world a better place.</br>    I love ideating great products and features based on User Stories and Business Goals.</br>
-                        Tools: Sketch | Invision | Photoshop </p>
+                <div class="col-sm-6 text-center">
+                    <p class="large text-muted">
+                        {% for description in member.description %}
+                            {{ description.line }}<br>
+                        {% endfor %}
+                    </p>
                 </div>
             </div>
+            {% endfor %}
         </div>
     </section>
