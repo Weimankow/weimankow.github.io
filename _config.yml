@@ -1,10 +1,9 @@
 url: https://weimankow.github.io
-baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: Weiman Kow
 email: weimankow@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Creative | UX Designer | Illustrator | Tech Geek"
 
 
 # Team names, titles and social links
@@ -14,13 +13,13 @@ people:
   position: UX Designer | Illustrator | Tech Geek
   social:
     - title: linkedin
-      url: # https://www.linkedin.com/in/weiman-kow-4920499?trk=hp-identity-photo
+      url: https://www.linkedin.com/in/weiman-kow-4920499?trk=hp-identity-photo
     - title: medium
-      url: # https://medium.com/@weimankow
+      url: https://medium.com/@weimankow
     - title: youtube
       url: https://www.youtube.com/user/lazarak33
     - title: twitter
-      url: # https://twitter.com/WeimanKow
+      url: https://twitter.com/WeimanKow
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)

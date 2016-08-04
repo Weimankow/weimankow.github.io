@@ -1,3 +1,8 @@
 ---
 layout: style
 ---
+@media(min-width:768px) {
+    .navbar-default {
+        background-color: #222;
+    }
+}
