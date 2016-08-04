@@ -1,3 +1,9 @@
+click to view site: http://weimankow.com/
+=========================================
+
+Website to showcase my User Experience Design Portfolio.
+
+
 Agency Jekyll theme
 ====================
 
