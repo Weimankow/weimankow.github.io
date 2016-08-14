@@ -8,5 +8,8 @@ layout: style
     section#team {
         margin-top: 110px;
     }
+    .container.portfolio {
+        margin-top: 110px;
+    }
 
 }
