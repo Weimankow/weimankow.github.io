@@ -3,7 +3,7 @@
         <div class="container">
             {% for member in site.people %}
             <div class="row">
-                <div class="col-sm-4">
+                <div class="col-sm-4 col-sm-offset-1">
                     <div class="team-member">
                         <img src="img/team/{{ member.pic }}" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
@@ -11,7 +11,7 @@
                         <ul class="list-inline social-buttons">
                             {% for network in member.social %}
                             <li>
-                                <a href="{{ network.url }}">
+                                <a href="{{ network.url }}" target="_blank">
                                     <i class="fa fa-{{ network.title }}"></i>
                                 </a>
                             </li>

@@ -5,4 +5,8 @@ layout: style
     .navbar-default {
         background-color: #222;
     }
+    section#team {
+        margin-top: 110px;
+    }
+
 }
