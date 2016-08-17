@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-sm-4 col-sm-offset-1">
                     <div class="team-member">
-                        <img src="img/team/{{ member.pic }}" class="img-responsive img-circle" alt="">
+                        <img src="/img/team/{{ member.pic }}" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
                         <ul class="list-inline social-buttons">
@@ -20,12 +20,17 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-sm-6 text-center">
+                <div class="col-sm-6 text-center" style="margin-top: 4em">
                     <p class="large text-muted">
                         {% for description in member.description %}
                             {{ description.line }}<br>
                         {% endfor %}
                     </p>
+                    <p>&nbsp;</p>
+                    <p class="large text-muted">
+                    <a href="/img/about/Resume.pdf" class="page-scroll btn btn-xl" target="_blank">View Resume</a> 
+                    </p>
+
                 </div>
             </div>
             {% endfor %}

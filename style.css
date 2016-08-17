@@ -5,11 +5,7 @@ layout: style
     .navbar-default {
         background-color: #222;
     }
-    section#team {
+    section:first-child {
         margin-top: 110px;
     }
-    .container.portfolio {
-        margin-top: 110px;
-    }
-
 }
