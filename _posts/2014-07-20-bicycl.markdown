@@ -3,25 +3,26 @@ title: Bicycl App
 subtitle: "Role: User Interviews, Creating Personas, Wireframing, Prototyping"
 layout: portfolio
 modal-id: 5
-date: 2014-07-14
 img: 
 thumbnail: bicycl_thumbnail.png
 alt: image-alt
 project-duration: 3 weeks
 client: Bicycl Asia
-client_url: bicycl.asia
+client_url: www.bicycl.asia
 category: App Revamp
-description: 
+description: Bicycl aims to build an international community of bicycle users who share their cycling stories. 
 
 ---
 Task: Improving Onboarding and User Retention Rate in app 
 
-# Problem Statement
-
-Bicycl aims to build an international community of bicycle users who share their cycling stories. However, they have a problem with onboarding and engaging cyclists to use the app to read and write cycling stories. 
+## Problem Statement
+Bicycl has a problem with onboarding and engaging cyclists to use the app to read and write cycling stories. 
 
 Task: Revamp app to allow users to tell the stories that interest them, and provide the foundation for a mobile marketplace.
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/o9WVWrpylro/0.jpg)](https://www.youtube.com/watch?v=o9WVWrpylro)
+
+![Testimage](..img/bicycl_thumbnail.png?raw=true)
 
 ## Approach
 

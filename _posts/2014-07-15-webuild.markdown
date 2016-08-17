@@ -3,7 +3,6 @@ title: Webuild Website
 subtitle: "Role: User Research, UX Teardown"
 layout: portfolio
 modal-id: 4
-date: 2014-07-15
 img: 
 thumbnail: webuild_thumbnail.png
 alt: image-alt
@@ -11,16 +10,16 @@ project-duration: In progress
 client: Webuild.sg
 client_url: http://webuild.sg/
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: WeBuild aims to build up the local tech community of developers, makers, and designers by promoting relevant content and events on their site. It is a open sourced project that anyone can contribute to.
 
 ---
+
+## Problem Statement
+
+Webuild has many features that encourage community building, but are hidden within the interface. 
+
 Task: Improve Usability, Increase Visitor Traffic and Engagement for local Tech Community
 
-# Problem Statement
-
-WeBuild aims to build up the local tech community of developers, makers, and designers by promoting relevant content and events on their site. It is a open sourced project that anyone can contribute to.  
-
-However, they have a problem with organizing important content visibly, so that non-tech people can find them. 
 
 ## Personal Goals
 

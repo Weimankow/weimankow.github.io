@@ -3,7 +3,6 @@ title: My Starhub App
 subtitle: "Role: Visual Design, User Research, Prototyping"
 layout: portfolio
 modal-id: 1
-date: 2014-07-18
 img: 
 thumbnail: starhub_thumbnail.png
 alt: image-alt
@@ -11,16 +10,14 @@ project-duration: 2 weeks
 client: My Starhub
 client_url: http://www.starhub.com/
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: "*Brief:* My Starhub App aims to allow My Starhub customers to view their data usage, pay bills, redeem rewards, and manage their account on the go. ..
+...*Problem:*My Starhub app has gathered overwhelmingly bad reviews since launch due to its cluttered and confusing interface."
+
 
 ---
 Task: Improve Usability and Increase Customer Satisfaction with app
 
-# Problem Statement
-
-My Starhub App aims to allow My Starhub customers to view their data usage, pay bills, redeem rewards, and manage their account on the go.  
-
-However, the app has gathered overwhelmingly bad reviews since launch due to its cluttered and confusing interface.
+## Problem Statement
 
 Task: Revamp app to allow users to quickly complete their most relevant tasks
 

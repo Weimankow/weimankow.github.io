@@ -3,16 +3,16 @@ layout: about
 ---
 
 # my about page
+Some info about me here
 
-
-# heading 1
+# Resume
 
 some description
 
-## heading 2
+## Interests
 
 second description
 
-## second heading 2 
+##  
 
 second description plus plus
