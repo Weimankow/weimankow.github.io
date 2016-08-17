@@ -13,7 +13,7 @@ category: Web Development
 description: "*Brief:* My Starhub App aims to allow My Starhub customers to view their data usage, pay bills, redeem rewards, and manage their account on the go. ..
 ...*Problem:*My Starhub app has gathered overwhelmingly bad reviews since launch due to its cluttered and confusing interface."
 
-
+portfolio_url: https://medium.com/ux-journeys/making-telco-users-happy-a-user-centric-revamp-of-my-starhub-app-fd0c72df94b
 ---
 Task: Improve Usability and Increase Customer Satisfaction with app
 

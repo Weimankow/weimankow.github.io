@@ -12,6 +12,7 @@ client_url: http://webuild.sg/
 category: Web Development
 description: WeBuild aims to build up the local tech community of developers, makers, and designers by promoting relevant content and events on their site. It is a open sourced project that anyone can contribute to.
 
+portfolio_url: https://medium.com/ux-journeys/general-assembly-ux-test-part-1-webuild-sg-b424c5a320bb
 ---
 
 ## Problem Statement

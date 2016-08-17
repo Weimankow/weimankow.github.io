@@ -12,6 +12,8 @@ client_url: https://www.tripadvisor.com.sg/
 category: Web Development
 description: TripAdvisor aims to encorage travellers to 
 
+portfolio_url: https://medium.com/ux-journeys/how-can-tripadvisor-increase-its-user-experience-2ae1c0374905
+
 ---
 
 Task: Improve Usability of Website, Propose Responsive Website Prototype, Increase User 

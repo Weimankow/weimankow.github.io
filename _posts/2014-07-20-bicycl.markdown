@@ -12,6 +12,8 @@ client_url: www.bicycl.asia
 category: App Revamp
 description: Bicycl aims to build an international community of bicycle users who share their cycling stories. 
 
+portfolio_url: http://invis.io/Q885UYAA4
+
 ---
 Task: Improving Onboarding and User Retention Rate in app 
 
