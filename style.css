@@ -9,3 +9,13 @@ layout: style
         margin-top: 110px;
     }
 }
+
+h4 {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #CCC;
+	line-height: 2em;
+}
+h4 > span {
+	padding-right: 0.5em;
+}
