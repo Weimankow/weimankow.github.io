@@ -8,11 +8,11 @@
         <div class="container portfolio">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
-                    <div>
-                        <h1>{{ page.title }}</h1>
+                    <div id="addline">
+                        <p style="padding-bottom:4em">{{ page.title }}</p>
                         <hr class="star-primary">
                         <!--<img src="/img/portfolio/{{ page.img }}" class="img-responsive img-centered" alt="{{ page.alt }}"> -->
-                        <p>{{ page.description }}</p>
+                        <h1>{{ page.description }}</h1>
                         <ul class="list-inline item-details">
                             <li>Client:
                                 <strong><a href="{{ page.client_url }}">{{ page.client }}</a>
@@ -21,7 +21,7 @@
                             <li>Duration:
                                 <strong>{{ page.project-duration }}</strong>
                             </li>
-                            <li>Service:
+                            <li>Team:
                                 <strong>{{ page.category }}</strong>
                             </li>
                         </ul>
@@ -33,5 +33,21 @@
             </div>
         </div>
         {% include js.html %}
+        <script>
+            $('h4').each(function(i, el) {
+              $(el).prepend($('<span class="glyphicon glyphicon-menu-down" aria-hidden="true" />')).next().toggle();
+;
+              $(el).click(function(e) {
+                $(this)
+                  .find('span.glyphicon')
+                  .toggleClass('glyphicon-menu-up')
+                  .toggleClass('glyphicon-menu-down')
+                $(this)
+                  .next()
+                  .toggle();
+              })
+            })
+        </script>
+        {% include footer.html %}
     </body>
 </html>
