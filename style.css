@@ -10,12 +10,13 @@ layout: style
     }
 }
 
-h4 {
+.container.portfolio h4 {
 	border-bottom-width: 1px;
 	border-bottom-style: solid;
 	border-bottom-color: #CCC;
 	line-height: 2em;
+    cursor: pointer; cursor: hand;
 }
-h4 > span {
+.container.portfolio h4 > span {
 	padding-right: 0.5em;
 }
