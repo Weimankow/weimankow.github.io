@@ -145,20 +145,16 @@ testing on 4 old people
 
 ## Solution
 
-We decided to narrow down the focus from all cyclists to enthusiasts.
-
 <iframe width="438" height="930" src="//invis.io/Q97XH6FXY" frameborder="0" allowfullscreen="" class="DRAGDIS_iframe"></iframe>
 
-<div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJaRS9kc57s" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<iframe src="https://docs.google.com/presentation/d/1H5babM3bVYm0FoNOG9jmGpkIfol05WUuM6S6aaVPJpY/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-1. 
 
 ## Learn More
-Interactive Prototype
-Video playthrough
-medium Link
-Slideshare presentation embed
+
+##### App Walkthrough from Persona POV
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJaRS9kc57s" frameborder="0" allowfullscreen></iframe>
+
+##### Presentation Slides
+<iframe src="https://docs.google.com/presentation/d/1H5babM3bVYm0FoNOG9jmGpkIfol05WUuM6S6aaVPJpY/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+##### Read More
+<div><a href="https://medium.com/ux-journeys/making-telco-users-happy-a-user-centric-revamp-of-my-starhub-app-fd0c72df94b">Read Article on Medium Digital Publication</a></div>
