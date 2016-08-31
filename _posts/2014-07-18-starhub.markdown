@@ -177,7 +177,15 @@ She can also see a clear breakdown of her reward points and browse comfortably i
 
 <div>
 <p><b>Video Walkthrough from Persona's POV</b></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ds7ceqV5CMM" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GTZWVDbIliI" frameborder="0" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fJaRS9kc57s" frameborder="0" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HcCGg5zYars" frameborder="0" allowfullscreen></iframe>
 
 <p></p>
 
