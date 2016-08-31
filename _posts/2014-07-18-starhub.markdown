@@ -143,18 +143,52 @@ testing on 4 old people
 2. engaging cyclists to read, write, and share their cycling stories. 
 
 
-## Solution
+## Solutions
+I updated the app design so that it is similar to the style of the current starhub website.
+
+### Check Data Usage
+
+The new design allows our persona, Miley to check her data usage immediately after login.
+
+
+<img src="/img/portfolio/starhub_data.png">
+
+### Pay Bills
+Aaron can also easily toggle to view his bills due across different accounts, and can save his credit card number within the app. 
+
+<img src="/img/portfolio/starhub_bills.png">
+
+### Simple Login
+Mui Choon can use an sms link to get her password if she forgets it. 
+
+<img src="/img/portfolio/starhub_login.png">
+
+### Browse Rewards
+She can also see a clear breakdown of her reward points and browse comfortably in a app interface with bigger fonts.
+
+<img src="/img/portfolio/starhub_rewards.png">
+
+## Interactive Prototype 
 
 <iframe width="438" height="930" src="//invis.io/Q97XH6FXY" frameborder="0" allowfullscreen="" class="DRAGDIS_iframe"></iframe>
 
 
 ## Learn More
 
-##### App Walkthrough from Persona POV
+<div>
+<p><b>Video Walkthrough from Persona's POV</b></p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fJaRS9kc57s" frameborder="0" allowfullscreen></iframe>
 
-##### Presentation Slides
+<p></p>
+
+<p><b>Presentation Slides</b></p>
+
 <iframe src="https://docs.google.com/presentation/d/1H5babM3bVYm0FoNOG9jmGpkIfol05WUuM6S6aaVPJpY/embed?start=false&loop=false&delayms=60000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-##### Read More
-<div><a href="https://medium.com/ux-journeys/making-telco-users-happy-a-user-centric-revamp-of-my-starhub-app-fd0c72df94b">Read Article on Medium Digital Publication</a></div>
+<p></p>
+
+<p><b>Read More</b></p>
+
+<div>Read<a href="https://medium.com/ux-journeys/making-telco-users-happy-a-user-centric-revamp-of-my-starhub-app-fd0c72df94b"> Article on Medium </a>Digital Publication</div>
+
+</div>
