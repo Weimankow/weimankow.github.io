@@ -9,42 +9,70 @@ alt: image-alt
 project-duration: 3 weeks
 client: Bicycl Asia
 client_url: www.bicycl.asia
-category: App Revamp
-description: Bicycl aims to build an international community of bicycle users who share their cycling stories. 
-
+category: 3 UX Designers
+description: Improving Content Strategy and Re-design of Bicycl App 
 portfolio_url: http://invis.io/Q885UYAA4
 
 ---
-Task: Improving Onboarding and User Retention Rate in app 
 
-## Problem Statement
-Bicycl has a problem with onboarding and engaging cyclists to use the app to read and write cycling stories. 
 
-Task: Revamp app to allow users to tell the stories that interest them, and provide the foundation for a mobile marketplace.
+## Brief
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/o9WVWrpylro/0.jpg)](https://www.youtube.com/watch?v=o9WVWrpylro)
+Bicycl is a startup that aims to build an international community of cyclists through a digital platform that allows cyclists to read, write, and share their cycling stories. 
+However, **user growth is slow**, and they needed help to **increase their number of users and engagement levels**.
 
-![Testimage](..img/bicycl_thumbnail.png?raw=true)
 
-## Approach
 
-#### User Interviews
+##### Task: To Improve User Onboarding and User Engagement Rate in app 
 
-second description
 
-#### Affinity Mapping
+## Challenges
 
-second description
+**Primary**: With the many popular digital platforms for sharing stories and photos online such as Facebook, Instagram, and Twitter, how can Bicycl capture their share of users?
 
-#### Creating User Personas
-second description
+**Secondary**: As Bicycl’s eventual aim is to be a profitable, how do we provide the foundation for a mobile marketplace?
+ 
 
-#### User Journey Mapping
-second description
+## Process
+
+#### User Research and Analysis
+
+-coming soon-
+
+#### Insights
+
+-coming soon-
 
 #### Prototyping
-second description
 
-# Outcome
+-coming soon-
 
-Slideshare presentation embed
+## Solution
+
+We decided to narrow down Bicycl's target audience from all cyclists to enthusiasts.
+
+We improved their onboarding so that users can find more relevant content from the start, by selecting their favorite topics and following their friends.
+
+<img src="/img/portfolio/bicycl_onboard.png">
+
+
+We designed a new type of story which allowed users to post about their passion - bicycle, details about their bicycle, modification history, and tag trips to bicycles.
+
+<img src="/img/portfolio/bicycl_post.png">
+
+We allowed Bicycl to automatically share their post on social media, and automatically tagged it with relevant tags for easy search.
+
+<img src="/img/portfolio/bicycl_social.png">
+
+We made it easy for users to engage by adding like buttons on the article list.
+
+<img src="/img/portfolio/bicycl_list.png">
+
+
+
+<!--<iframe width="438" height="930" src="//invis.io/Q885UYAA4" frameborder="0" allowfullscreen="" class="DRAGDIS_iframe"></iframe>-->
+
+## Learn More
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o9WVWrpylro" frameborder="0" allowfullscreen></iframe>
