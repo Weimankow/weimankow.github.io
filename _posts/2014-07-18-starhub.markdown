@@ -33,14 +33,6 @@ My Starhub is an app that helps Starhub customers view their data usage, pay bil
 <div>
 	<p>-coming soon-
  
-	</p>
-
-<p><img src="a.jpg"></p>
-
-
-	<p><b>Insights:</b> </p> 
-
-
  
 
 
