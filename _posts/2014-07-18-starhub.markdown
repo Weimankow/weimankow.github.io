@@ -62,7 +62,6 @@ My Starhub is an app that helps Starhub customers view their data usage, pay bil
 
 	<p><h5>Insights:</h5></p>
 
-	<img src="/img/portfolio/starhub_personas.png">
 
 	<p>Persona 1:</p>
 	<p> Miley, 25, a millenial, frequently uses snapchat, instagram, and tumblr to keep up with her friend's lives on-the-go.
@@ -73,7 +72,6 @@ My Starhub is an app that helps Starhub customers view their data usage, pay bil
 	</ol>
 	</p>
 
-	<img src="/img/portfolio/a.png">
 
 	<p>Persona 2:</p>
 	<p> Aaron, 37, a successful businessman, has multiple phone lines and is often busy. He needs to easily check bills for all accounts and pay bills quickly while travelling from place to place. 
@@ -86,7 +84,6 @@ My Starhub is an app that helps Starhub customers view their data usage, pay bil
 	</ol>
 	</p>
 
-	<img src="/img/portfolio/a.png">
 	<p>Persona 3:</p>
 	<p> Mui Choon, 52, a homemaker,  
 	<p>Key Pain Points:</p>
