@@ -31,7 +31,8 @@ My Starhub is an app that helps Starhub customers view their data usage, pay bil
 #### Understanding Business and Competitors
 
 <div>
-	<p>I studied Starhub's latest annual report to understand whether an app revamp will be relevant to their business goals. 
+	<p>-coming soon-
+ 
 	</p>
 
 <p><img src="a.jpg"></p>
@@ -129,18 +130,21 @@ My Starhub is an app that helps Starhub customers view their data usage, pay bil
 
 
 #### Feature Prioritization
-second description
+-coming soon-
+
 
 #### Lo-fi Prototype (Sketch, Invision)
-second description
+-coming soon-
+
 
 #### Usability Testing
-testing on 4 old people
+-coming soon-
+
 
 #### Insights
 
-1. onboarding
-2. engaging cyclists to read, write, and share their cycling stories. 
+-coming soon-
+
 
 
 ## Solutions
@@ -148,7 +152,7 @@ I updated the app design so that it is similar to the style of the current starh
 
 ### Check Data Usage
 
-The new design allows our persona, Miley to check her data usage immediately after login.
+Our new design allows our persona, Miley to check her data usage immediately after login.
 
 
 <img src="/img/portfolio/starhub_data.png">
