@@ -9,35 +9,23 @@ alt: image-alt
 project-duration: 1 week
 client: Personal Project
 client_url: https://weimankow.com
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: me
+description: Designing an Medical Advisory App for Patients
 
 portfolio_url: https://medium.com/ux-journeys/want-more-advice-from-your-doctor-maybe-this-will-help-c46277892fef
 ---
-Task: Discover User Problems with visiting doctors when sick, Propose Mobile App Solution  
+## Brief
 
-## Approach
+Discover User Problems with visiting doctors, Propose Mobile App Solution  
 
-#### User Interviews
+## Solution
 
-second description
+<div>For full details, read<a href="https://medium.com/ux-journeys/want-more-advice-from-your-doctor-maybe-this-will-help-c46277892fef#.gw4xr2yrm
+"> Article on Medium </a>Digital Publication</div>
 
-#### Affinity Mapping
+<p></p>
+<p><b>Presentation Slides</b></p>
 
-second description
 
-#### Storyboarding Problem and Solution
-second description
+<iframe src="https://docs.google.com/presentation/d/1sFxhpfpuTglKhxOcUN0A76E8q9l5jMu2jtaoJNzXoVA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-#### Prototyping
-second description
-
-#### Usability Testing
-second description
-
-#### Insights
-second description
-
-# Outcome
-
-Slideshare presentation embed

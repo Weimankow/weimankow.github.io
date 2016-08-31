@@ -10,14 +10,14 @@ project-duration: In progress
 client: Webuild.sg
 client_url: http://webuild.sg/
 category: Web Development
-description: WeBuild aims to build up the local tech community of developers, makers, and designers by promoting relevant content and events on their site. It is a open sourced project that anyone can contribute to.
+description: Improving Usability of Webuild Website
 
 portfolio_url: https://medium.com/ux-journeys/general-assembly-ux-test-part-1-webuild-sg-b424c5a320bb
 ---
 
-## Problem Statement
+## Brief
+WeBuild aims to build up the local tech community of developers, makers, and designers by promoting relevant content and events on their site. It is a open sourced project that anyone can contribute to. Webuild has many features that encourage community building, but are hidden within the interface. 
 
-Webuild has many features that encourage community building, but are hidden within the interface. 
 
 Task: Improve Usability, Increase Visitor Traffic and Engagement for local Tech Community
 
@@ -26,14 +26,8 @@ Task: Improve Usability, Increase Visitor Traffic and Engagement for local Tech 
 
 I took up this side project with a few aims - to challenge myself to learn Github, to get familiar with contributing to an open sourced project (FOSS), to experiment with creating UX documentation for a FOSS project.
 
-## Approach
+## Process
 
-#### Stakeholder Meeting
-second description
+Project is still in process.
 
-#### User Interviews
-second description
-
-#### Usability Testing
-second description
-
+<div>Read first steps on <a href="https://medium.com/ux-journeys/general-assembly-ux-test-part-1-webuild-sg-b424c5a320bb#.eodnc9iag"> Article on Medium </a>Digital Publication</div>
