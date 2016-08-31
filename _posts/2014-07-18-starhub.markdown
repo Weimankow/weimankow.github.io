@@ -85,13 +85,13 @@ My Starhub is an app that helps Starhub customers view their data usage, pay bil
 	</p>
 
 	<p>Persona 3:</p>
-	<p> Mui Choon, 52, a homemaker,  
+	<p> Mui Choon, 52, a homemaker, likes to save money by redeeming bill rebates via My Rewards page. She also has to  
 	<p>Key Pain Points:</p>
 	<ol>
-	<li>Having to key in credit card number for every payment</li>
-	<li>Difficult to view and choose which Starhub account to pay for</li>
-	<li>Forced to download PDF bill to view breakdown of bill</li>
-	<li>Lacking information to set up GIRO</li>
+	<li>Font size throughout app is difficult to read</li>
+	<li>Login is confusing</li>
+	<li>Frustrated that My Rewards section loads a webpage that is difficult to read</li>
+	<li>Reward points system is confusing, not sure when points expire.</li>
 	</ol>
 	</p>
 
@@ -100,12 +100,6 @@ My Starhub is an app that helps Starhub customers view their data usage, pay bil
 
 
 
-
-
-
-	<p>interviews, mapping, personas, user journey mapping.
-	goals, pain points, needs, scenarios.
-	</p>
 
 
 
